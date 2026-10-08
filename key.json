@@ -1,1 +1,6 @@
-
+{
+  "name": "TestAI",
+  "systemPrompt": "",
+  "userPrompt": "",
+  "online": true
+}
