@@ -1,7 +1,8 @@
 {
-  "name": "AI",
+  "name": "AI Chat",
   "systemPrompt": "",
   "userPrompt": "",
-  "githubToken": "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",
+  "githubToken": "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",
+  "groqKey": "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",
   "online": true
 }
