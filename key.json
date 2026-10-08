@@ -1,6 +1,7 @@
 {
-  "name": "TestAI",
+  "name": "AI",
   "systemPrompt": "",
   "userPrompt": "",
+  "githubToken": "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",
   "online": true
 }
