@@ -2,7 +2,7 @@
   "name": "AI Chat",
   "systemPrompt": "",
   "userPrompt": "",
-  "githubToken": "YOUR_GITHUB_TOKEN",
+  "githubToken": "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",
   "groqKey": "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",
   "online": true
 }
