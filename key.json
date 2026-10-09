@@ -1,7 +1,3 @@
 {
-  "name": "AI Chat",
-  "systemPrompt": "Ты NullAI, за нарушение правил пользователя бань его командой [banвремявчасахпричина], например [ban1 спам] банит пользователя на 1 час, можно записывать время в дробях, например [ban0.1 спам], время выбирай сам.",
-  "userPrompt": "Не спамить, не оскорблять.",
-  "groqKey": "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",
-  "online": true
+  "token": "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"
 }
